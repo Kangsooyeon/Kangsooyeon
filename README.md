@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+
 <!--
 **Kangsooyeon/Kangsooyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +22,6 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kangsooyeon)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![09e904cb8f26f](https://github.com/Kangsooyeon/Kangsooyeon/assets/64363148/2bdaad2f-8c21-43fa-89ff-e6e782279033)

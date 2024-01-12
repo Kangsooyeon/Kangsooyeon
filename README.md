@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 
-![Kangsooyeon](https://github-readme-stats.vercel.app/api?username=Kangsooyeon&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+![Kangsooyeon](https://github-readme-stats.vercel.app/api?username=Kangsooyeon&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)([https://github.com/anuraghazra/github-readme-stats](https://github.com/Kangsooyeon)https://github.com/Kangsooyeon)

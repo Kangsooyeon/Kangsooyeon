@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+[Notion Link](https://www.notion.so/b73f337fcd324d92b283c2cee0c18f9b)
 
 <!--
 **Kangsooyeon/Kangsooyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
